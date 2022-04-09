@@ -12,7 +12,6 @@ A Complete Weather App built with Flutter.
 - OpenWeatherMap API is used.
 - Geolocator package for Location.
 
-
 ## Demonstration
 
 <!-- COMING SOON :screwdriver: :placard:	  -->
@@ -50,6 +49,13 @@ A Complete Weather App built with Flutter.
                 <a href="https://twitter.com/IamShahabAlam">
                     <img src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" style = "height:35px;" alt="Twitter Icon">
                 </a>
+            </div>
+            
+ <div class="social-icons-image">
+                <a  href="mailto:IamshahabAlam@gmail.com">
+<img  alt="Gmail"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+
+</a>
             </div> <br/>
 
 > :blue_heart: &nbsp; Fluttering
