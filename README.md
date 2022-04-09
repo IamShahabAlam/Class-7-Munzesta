@@ -53,7 +53,7 @@ A Complete Weather App built with Flutter.
             
  <div class="social-icons-image">
                 <a  href="mailto:IamshahabAlam@gmail.com">
-<img  alt="Gmail" height="35px" width="22px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+<img  alt="Gmail" height="22px" width="25px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 
 </a>
             </div> <br/>
